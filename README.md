@@ -30,14 +30,13 @@ Sunday                   70 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               21 mins             █████████████████████████   99.19 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -57,5 +56,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/project-dy/project-dy/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2024 18:38:14 UTC
+ Last Updated on 09/02/2024 18:36:44 UTC
 <!--END_SECTION:waka-->
