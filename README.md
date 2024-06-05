@@ -9,11 +9,9 @@
 
 > 📦 GitHub의 536.4 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 163 만큼의 Contributions을 2024년에 했어요
- > 
 > 🚫 구직중이지 않아요.
  > 
-> 📜 36개의 Public Repository를 만들었어요. 
+> 📜 37개의 Public Repository를 만들었어요. 
  > 
 > 🔑 34개의 Private Repository를 만들었어요. 
  > 
@@ -73,5 +71,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/project-dy/project-dy/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2024 18:39:06 UTC
+ Last Updated on 05/06/2024 18:38:50 UTC
 <!--END_SECTION:waka-->
