@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,8 +30,8 @@ Sunday                   74 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 23 mins             ███████████████████░░░░░░   74.05 % 
-shell script             8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+Markdown                 23 mins             ███████████████████░░░░░░   74.03 % 
+shell script             8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
@@ -59,5 +59,5 @@ Fluent                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/project-dy/project-dy/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2024 18:45:11 UTC
+ Last Updated on 01/10/2024 18:45:20 UTC
 <!--END_SECTION:waka-->
