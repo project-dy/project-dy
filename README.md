@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2037%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
@@ -58,5 +60,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/project-dy/project-dy/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2024 18:44:31 UTC
+ Last Updated on 23/10/2024 18:44:30 UTC
 <!--END_SECTION:waka-->
