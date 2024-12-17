@@ -30,13 +30,14 @@ Sunday                   74 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 mins              █████████████████████████   98.70 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -55,5 +56,5 @@ C                        2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/project-dy/project-dy/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2024 18:48:00 UTC
+ Last Updated on 17/12/2024 18:48:16 UTC
 <!--END_SECTION:waka-->
