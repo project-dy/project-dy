@@ -9,7 +9,7 @@
 
 > 📦 GitHub의 547.5 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 0 만큼의 Contributions을 2025년에 했어요
+> 🏆 33 만큼의 Contributions을 2025년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -73,5 +73,5 @@ Logos                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/project-dy/project-dy/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2025 18:44:31 UTC
+ Last Updated on 22/01/2025 18:44:50 UTC
 <!--END_SECTION:waka-->
