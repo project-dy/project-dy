@@ -9,6 +9,8 @@
 
 > 📦 GitHub의 547.9 kB만큼의 저장소를 사용하고 있어요. 
  > 
+> 🏆 89 만큼의 Contributions을 2025년에 했어요
+ > 
 > 🚫 구직중이지 않아요.
  > 
 > 📜 45개의 Public Repository를 만들었어요. 
@@ -71,5 +73,5 @@ Logos                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/project-dy/project-dy/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2025 18:46:36 UTC
+ Last Updated on 14/03/2025 18:45:09 UTC
 <!--END_SECTION:waka-->
