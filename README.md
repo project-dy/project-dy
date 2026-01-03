@@ -1,42 +1,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-🌆 Daytime                574 commits         ████████████████░░░░░░░░░   64.57 % 
-🌃 Evening                226 commits         ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Tuesday                  191 commits         █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Thursday                 125 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Friday                   133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Saturday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Sunday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -54,5 +18,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/project-dy/project-dy/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 18:52:09 UTC
+ Last Updated on 03/01/2026 18:51:01 UTC
 <!--END_SECTION:waka-->
