@@ -3,58 +3,75 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**I'm an Early 🐤** 
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.10%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+
+**🐱 저의 GitHub 정보에요.** 
+
+> 📦 GitHub의 731.2 kB만큼의 저장소를 사용하고 있어요. 
+ > 
+> 🏆 36 만큼의 Contributions을 2026년에 했어요
+ > 
+> 🚫 구직중이지 않아요.
+ > 
+> 📜 52개의 Public Repository를 만들었어요. 
+ > 
+> 🔑 39개의 Private Repository를 만들었어요. 
+ > 
+**저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 Morning                85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-🌆 Daytime                574 commits         ████████████████░░░░░░░░░   64.57 % 
-🌃 Evening                226 commits         ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+🌞 아침                     85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+🌆 낮　                     574 commits         ████████████████░░░░░░░░░   64.57 % 
+🌃 저녁                     226 commits         ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+🌙 밤　                     4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **제가 가장 생산적인 날은 화요일이에요.** 
 
 ```text
-Monday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Tuesday                  191 commits         █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Thursday                 125 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Friday                   133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Saturday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Sunday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               12 repos            ██████████████░░░░░░░░░░░   54.55 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+월요일                      160 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+화요일                      191 commits         █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+수요일                      94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+목요일                      125 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+금요일                      133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+토요일                      100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+일요일                      86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
 ```
 
 
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
-**Timeline**
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+이번 주에 활동은 없어요.
+
+🔥 에디터들: 
+이번 주에 활동은 없어요.
+
+🐱‍💻 프로젝트들: 
+이번 주에 활동은 없어요.
+
+💻 운영 체제들: 
+이번 주에 활동은 없어요.
+```
+
+**저는 주로 JavaScript 언어를 사용해요.** 
+
+```text
+JavaScript               23 repos            ██████████░░░░░░░░░░░░░░░   38.33 % 
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+
+**타임라인**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/project-dy/project-dy/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2026 19:11:40 UTC
+ Last Updated on 03/03/2026 19:23:29 UTC
 <!--END_SECTION:waka-->
